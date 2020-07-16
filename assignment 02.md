@@ -12,5 +12,5 @@ The line chart includes the Government debts of multiple countries from 1995 to 
 As countries with most debts are highlighted, viewers can easily compare fluctuations in these countries between years.  
 <div class="flourish-embed flourish-chart" data-src="visualisation/3191368" data-url="https://flo.uri.sh/visualisation/3191368/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
-Different information is emphasized  in different methods of visualization. 
+# Comparison
+Information is emphasized differently in different methods of visualization. In the first graph, viewers can easily realize countries with most and least total debts from 1995-2019; however, it is hard for users to get a sense how the debts fluctate in each country. In the second graph, viewers can get how the debts vary among years in specific countries but they would find it hard to compare the information between countries. In the third graph, viewers can track how debts vary in the selected five countries (the five countries have most debts in the first graph) and it is easy for them to compare between countries and among different years also. 
