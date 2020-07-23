@@ -11,7 +11,7 @@ I firstly observed the diagram and tried to clarify the main target users, which
 <p>2. Accuracy is important in data visualization. When critiquing "trustworthy", I realized that the diagram was not accurate enough to reflect the ratio of revenue of various restaurants. Giving viewers clear and more accurate impression on data should also be the focus of the redesign.
 Based on what I got from the critiques, I developed three redesign solutions: 
   
-![sketch](Group 19.png)
+![sketch](sketch.png)
 
 <p>1. Pay attention to key elements. In the diagram, the most important element should be the revenue of Mcdonald. However, in the first redesign, the key element is less emphasized and it is harder for readers to get the clear sense for the most important element.
 
