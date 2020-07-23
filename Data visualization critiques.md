@@ -12,6 +12,7 @@ I firstly observed the diagram and tried to clarify the main target users, which
 Based on what I got from the critiques, I developed three redesign solutions: 
   
 ![sketch](Group 19.png)
+
 <p>1. Pay attention to key elements. In the diagram, the most important element should be the revenue of Mcdonald. However, in the first redesign, the key element is less emphasized and it is harder for readers to get the clear sense for the most important element.
 
 2. A couple paragraphs describing what your process was.  You should include a few insights you gained from the critique method, and what it led you to think about when considering a redesign, if anything.  You should talk about how you moved next to the wireframes, and any insights you gleaned from your user feedback.  If it led you to change anything about your data visualization's design, mention what that was.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently. 
