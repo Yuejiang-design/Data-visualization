@@ -20,5 +20,5 @@ Here are some comments and critiques I got from two interviews:
 
 I then developed the final redesign:
 
-![final design](final design.png)
+![finaldesign](final design.png)
 
