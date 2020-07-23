@@ -11,7 +11,7 @@ I firstly observed the diagram and tried to clarify the main target users, which
 <p>2. Accuracy is important in data visualization. When critiquing "trustworthy", I realized that the diagram was not accurate enough to reflect the ratio of revenue of various restaurants. Giving viewers clear and more accurate impression on data should also be the focus of the redesign.
 <p>Based on what I got from the critiques, I developed three redesign solutions: 
   
-![sketch](sketch.png)
+<img src="sketch.png">
 
 Here are some comments and critiques I got from two interviews:
 
@@ -20,5 +20,4 @@ Here are some comments and critiques I got from two interviews:
 
 I then developed the final redesign:
 
-![finaldesign](final design.png)
-
+<img src="final design.png">
