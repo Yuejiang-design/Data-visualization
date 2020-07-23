@@ -2,7 +2,7 @@ Mainpage(/README.md)
 
 # Original Data Visualization
 ![original file](original.png)
-Here is the data visualization I found on the website. The 
+<p>Here is the data visualization I found on the website. The 
 
 1. A link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include a short paragraph on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source.  
 
