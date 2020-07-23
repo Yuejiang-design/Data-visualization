@@ -19,5 +19,6 @@ Here are some comments and critiques I got from two interviews:
 <p>2. It is not clear that Starbucks worked as a measurement here. More information may need here to explain how the diagram works. 
 
 I then developed the final redesign:
+
 ![final design](final design.png)
 
