@@ -17,6 +17,3 @@ Here are some comments and critiques I got from two interviews:
 
 <p>1. Pay attention to key elements. In the diagram, the most important element should be the revenue of Mcdonald. However, in the first redesign, the key element is less emphasized and it is harder for readers to get the clear sense for the most important element.
 <p>2. It is not clear that Starbucks worked as a measurement here. More information may need here to explain how the diagram works. 
-
-
-3.  Your final data visualization!
