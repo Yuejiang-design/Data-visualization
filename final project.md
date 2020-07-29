@@ -1,0 +1,20 @@
+# What is the wealthiest princess like in the Disney world?
+
+## Why the topic?
+With the brand value of 19 billions, Disney is one of the most profitable companies in the world and also bring hope and love to millions of people. As a big fan of Disney movies, I am really curious about what contributes to Disney's profits most and the most profitable character they created.
+
+## Some facts about Disney
+（visualize the information here) First found 1923 -- First Cartoon movie: Alice’s Wonderland -- 1937  Snow White and the Seven Dwarfs --  1955 first theme park, Disneyland, in Anaheim, California -- December 1966,Walt Disney passed away 
+--May 2006, Disney purchased Pixar for $7.4 billion -- In 2009, Disney purchased Marvel Entertainment for about $4 billion -- Now Disney revenue $69.570 billion, 800 Disney Characters,6 Dsineyland
+Among all the characters, princess is an important series
+
+## Facts about Disney princesses
+1. Brief introduction of these princesses, their movies and their popularity 
+2. Diagram to show the correlation between their color and their charateristics
+
+## How much do these princess earn？
+Diagram 01: shows the overall gross revenue of these movies
+Diagram 02: shows the gross revenue per year of these movies
+
+## Conclusion
+CompaAre these two diagram and conclude some points and list the richest princess under each diagram.
