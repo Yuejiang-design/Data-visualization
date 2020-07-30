@@ -24,3 +24,11 @@ CompaAre these two diagram and conclude some points and list the richest princes
 ##Dataset
 I used two resources to finish the topic. Firstly, the revenue information comes from the open dataset: https://www.kaggle.com/prateekmaj21/disney-movies. I extracted movies related to Disney princess and calculate gross revenue per year according to the data. I would use the data to showcase ”how wealth these princess are" and " their capability in earning money". 
 <p>The other one is the character analysis of these princesses:https://princess.disney.com/. I would utilize some color picker tool to match colors with their characteristics. 
+
+##Interview protocol
+a. The target audience of my story is the fans of Disney and anyone who is interested in the topic. 
+b. I interviewed two of my friends who are extremely interested in Disney topics and also I interviewed one friend who is not that into the topic to see if my story can still interest him to some extent.
+c. My interview script
+
+d. the findings from your interviews; and 
+e. changes you implemented to your sketches, storyboards and wireframes to address the issues identified.
