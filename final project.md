@@ -39,17 +39,17 @@ I would like to go through the story with you. If you find any pitfall in the st
 <p> 4. What do you think of the data visualization here? Are they understandable and useful to understand the story？
 
 <p> Part1: Some facts about Disney
- 
-![](facts of disney.png)
+ <img src="facts of disney.png"> 
 
 <p> Part2: Facts about Disney princesses 
- 
-![](facts of princess.png)
+ <img src="facts of princess.png"> 
 
 <p> Part3: Data visualization
+ <img src="total revenue.png">
+ <img src="revenue per year.png">
  
- ![](total revenue.png)
- ![](revenue per year.png)
- 
-d. the findings from your interviews; and 
-e. changes you implemented to your sketches, storyboards and wireframes to address the issues identified.
+d. the findings from your interviews:
+1) The story is kind of detached from the question/topic. The comparison of revenue cannot reflect what is the wealthiest princess.
+2）More data visualization might needed to showcase the data. For example: how many years are each prince created and how does it influence the data.
+3)Need to show data/numbers on the diagram
+4）The diagrams are too coloful and should be emphasized with limited colors.
