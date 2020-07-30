@@ -18,17 +18,25 @@ Among all the characters, princess is an important series
 Diagram 01: shows the overall gross revenue of these movies
 Diagram 02: shows the gross revenue per year of these movies
 
-###3 Conclusion
+### Conclusion
 CompaAre these two diagram and conclude some points and list the richest princess under each diagram.
 
-##Dataset
+## Dataset
 I used two resources to finish the topic. Firstly, the revenue information comes from the open dataset: https://www.kaggle.com/prateekmaj21/disney-movies. I extracted movies related to Disney princess and calculate gross revenue per year according to the data. I would use the data to showcase ”how wealth these princess are" and " their capability in earning money". 
 <p>The other one is the character analysis of these princesses:https://princess.disney.com/. I would utilize some color picker tool to match colors with their characteristics. 
 
-##Interview protocol
+## Interview protocol
 a. The target audience of my story is the fans of Disney and anyone who is interested in the topic. 
 b. I interviewed two of my friends who are extremely interested in Disney topics and also I interviewed one friend who is not that into the topic to see if my story can still interest him to some extent.
 c. My interview script
+Hi I am Yue. I’m conducting interviews to test my data visualiation project in ‘Telling Stories With Data’. Thank you very much again for letting me interview you.
+I would like to go through the story with you. If you find any pitfall in the storytelling, please feel free to jump in.
+<Introduce the outline and content>
+ Questions
+<p> 1. Do you think the project answer the question "What is the wealthiest princess like in the Disney world?“？
+<p> 2. Do you have any other information that can be added?
+<p> 3. Do you think there is any information unecessary here?
+<p> 4. What do you think of the data visualization here? Are they understandable and useful to understand the story？
 
 d. the findings from your interviews; and 
 e. changes you implemented to your sketches, storyboards and wireframes to address the issues identified.
