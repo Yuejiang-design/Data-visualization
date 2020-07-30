@@ -39,8 +39,17 @@ I would like to go through the story with you. If you find any pitfall in the st
 <p> 4. What do you think of the data visualization here? Are they understandable and useful to understand the story？
 
 <p> Part1: Some facts about Disney
+ 
+![](facts of disney.png)
+
 <p> Part2: Facts about Disney princesses 
+ 
+![](facts of princess.png)
+
 <p> Part3: Data visualization
+ 
+ ![](total revenue.png)
+ ![](revenue per year.png)
  
 d. the findings from your interviews; and 
 e. changes you implemented to your sketches, storyboards and wireframes to address the issues identified.
