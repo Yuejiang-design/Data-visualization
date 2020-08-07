@@ -69,13 +69,13 @@ After communicating with
 ## Images and recourses citation.
 
 1) Free images website: 
-https://unsplash.com/photos/s1pXPc6rIZw
-https://www.gettyimages.com/detail/news-photo/crowd-of-tourists-walk-toward-the-sleeping-beauty-castle-on-news-photo/1350735?adppopup=true
-https://pixabay.com/images/search/sleeping%20beauty/
-https://www.pexels.com/search/sleeping%20beauty/
+<p>https://unsplash.com/photos/s1pXPc6rIZw
+<p>https://www.gettyimages.com/detail/news-photo/crowd-of-tourists-walk-toward-the-sleeping-beauty-castle-on-news-photo/1350735?adppopup=true
+<p>https://pixabay.com/images/search/sleeping%20beauty/
+<p>https://www.pexels.com/search/sleeping%20beauty/
 
 2) Resources website:
-https://princess.disney.com/
+<p>https://princess.disney.com/
 
 3) Dataset website
-https://www.kaggle.com/datasets
+<p>https://www.kaggle.com/datasets
