@@ -11,6 +11,9 @@ I want to learn data visualization in the course and plan to be a UX designer af
 # Portfolio.
 This ia a page to showcase what I learned
 
+
+<p>Link to subpages:
 [Government debt](/assignment 02.md)
 [Data visualization critiques](/Data visualization critiques.md)
-[Data visualization critiques](/final project.md)
+[](/final project.md)
+  
