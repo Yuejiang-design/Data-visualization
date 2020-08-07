@@ -12,7 +12,7 @@ I want to learn data visualization in the course and plan to be a UX designer af
 This ia a page to showcase what I learned
 
 
-<p>Link to subpages:
+
 [Government debt](/assignment 02.md)
 [Data visualization critiques](/Data visualization critiques.md)
 [](/final project.md)
