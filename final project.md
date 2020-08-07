@@ -1,9 +1,18 @@
 # What is the wealthiest princess like in the Disney world?
 
+## Shothand link: 
+<p>https://carnegiemellon.shorthandstories.com/who-is-the-wealthiest-disney-princess-/index.html</p>
+
 ## Outline
 
 ### Why the topic?
 With the brand value of 19 billions, Disney is one of the most profitable companies in the world and also bring hope and love to millions of people. As a big fan of Disney movies, I am really curious about what contributes to Disney's profits most and the most profitable character they created.
+
+### Who is my audience?
+Original thought: My audience is anyone who is interested in the topic. I will not set lines for the target audience.My audience is anyone who is interested in the topic. I could be business persons who are interested in the profitable of Disney, could be young students who love Disney... The topic is rather interesting and enjoyable. I believe that anyone who is interested in the topic can at least learn somethng from the data visualization and have some fun as well. 
+
+Iterated thought: I still agree that the target audence should be those who are interested in the topic. However, I do think the audience should be someone who can at least read some business data and understand the logic that the princesses designed is one of the most important revenue resource for Disney. I am also trying to teach people view Disney princess from business perspective. 
+
 
 ### Some facts about Disney
 （visualize the information here) First found 1923 -- First Cartoon movie: Alice’s Wonderland -- 1937  Snow White and the Seven Dwarfs --  1955 first theme park, Disneyland, in Anaheim, California -- December 1966,Walt Disney passed away 
@@ -53,3 +62,20 @@ d. the findings from your interviews:
 <p>2）More data visualization might needed to showcase the data. For example: how many years are each prince created and how does it influence the data.
 <p>3)Need to show data/numbers on the diagram
 <p>4）The diagrams are too coloful and should be emphasized with limited colors.
+ 
+## Iterations on the data visualization
+After communicating with 
+
+## Images and recourses citation.
+
+1) Free images website: 
+https://unsplash.com/photos/s1pXPc6rIZw
+https://www.gettyimages.com/detail/news-photo/crowd-of-tourists-walk-toward-the-sleeping-beauty-castle-on-news-photo/1350735?adppopup=true
+https://pixabay.com/images/search/sleeping%20beauty/
+https://www.pexels.com/search/sleeping%20beauty/
+
+2) Resources website:
+https://princess.disney.com/
+
+3) Dataset website
+https://www.kaggle.com/datasets
