@@ -15,5 +15,5 @@ This ia a page to showcase what I learned
 
 [Government debt](/assignment 02.md)
 [Data visualization critiques](/Data visualization critiques.md)
-[](/final project.md)
+[Final project](/final project.md)
   
