@@ -1,3 +1,8 @@
+
+[Government debt](/assignment 02.md) &nbsp;&nbsp;&nbsp;
+[Data visualization critiques](/Data visualization critiques.md) &nbsp;&nbsp;&nbsp;
+[Final project](/final project.md) &nbsp;&nbsp;&nbsp;
+
 # Student porfolio
 This is my current portfolio for the Telling Stories with Data in CMU
 
@@ -13,7 +18,4 @@ This ia a page to showcase what I learned
 
 
 
-[Government debt](/assignment 02.md)
-[Data visualization critiques](/Data visualization critiques.md)
-[Final project](/final project.md)
   
