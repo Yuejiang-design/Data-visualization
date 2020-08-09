@@ -9,7 +9,7 @@ Click here to view more:
 
 # About me
 
-Hello!! I am Carol, a master student in METALS. I love learning new things and travelling on my own. Here is my personal portfolio page and you can click to learn me more: www.yuejiang.me
+Hello!! I am Carol, a master student in METALS. I love learning new things and travelling on my own. Here is my personal portfolio page and you can click to learn me more [](www.yuejiang.me)
 
 # What I hope to learn
 I want to learn data visualization in the course and plan to be a UX designer after graduation.
