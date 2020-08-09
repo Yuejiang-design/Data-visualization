@@ -5,7 +5,7 @@ Click here to view more:
 [Final project](/final project.md) &nbsp;&nbsp;&nbsp;
 
 # Student porfolio
- :smiley:Hi! This is my portfolio page for the Telling Stories with Data in CMU. Hope you can enjoy it. 
+🤩 Hi! This is my portfolio page for the Telling Stories with Data in CMU. Hope you can enjoy it. 
 
 # About me
 
